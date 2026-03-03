@@ -1,2 +1,2 @@
 # bucafsmal.github.io
-Frontend web site.
+Frontend web site
